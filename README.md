@@ -82,15 +82,20 @@ print(f"Predicted Value:{pre}")
 ## Output:
 
 ### X values
-![X values](1.png)
+![image](https://github.com/user-attachments/assets/6e33da08-d6d2-481c-92c5-bc75b8f8d4f1)
+
 ### y values
-![y values](2.png)
+![image](https://github.com/user-attachments/assets/8042389c-16fd-402b-8117-29f6b74157aa)
+
 ### X Scaled values
-![X Scaled values](3.png)
+![image](https://github.com/user-attachments/assets/570b77f3-c260-4053-8318-0d31b044a291)
+
 ### y Scaled values
-![y Scaled values](4.png)
+![image](https://github.com/user-attachments/assets/87bccc49-2a01-41a3-8832-fe7a9dfaf65c)
+
 ### Predicted value
-![Predicted value](5.png) 
+![image](https://github.com/user-attachments/assets/cfa8131d-3755-40b5-ba3a-29f972a0b967)
+
 
 
 ## Result:
